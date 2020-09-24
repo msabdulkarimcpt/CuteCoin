@@ -1,3 +1,3 @@
 ## CuteCoin
 
-Marketing inventory Application software
+Inventory Application software.
