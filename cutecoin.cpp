@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"CuteCoin App";
+cout<<"CuteCoin Application";
 return 0;
 }
